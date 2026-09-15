@@ -13,6 +13,7 @@ This repository documents hands-on cybersecurity labs completed to develop pract
 | Lab                                                               | Skills Demonstrated                                                              | Status    |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------- |
 | [Windows Failed-Login Detection](windows-failed-login-detection/) | Windows Event Viewer, Event ID 4625, authentication analysis, incident reporting | Completed |
+| [Windows Failed-Login Detection](windows-failed-login-detection/) | Windows Event Viewer, Event ID 4625, authentication analysis, incident reporting | Completed |
 
 ## Planned Labs
 
