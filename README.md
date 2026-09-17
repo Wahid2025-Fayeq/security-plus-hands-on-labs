@@ -1,6 +1,6 @@
 # Security Operations Hands-On Labs
 
-This repository documents hands-on cybersecurity labs completed to develop practical skills in security monitoring, log analysis, incident investigation, network analysis, vulnerability management, and defensive security.
+This repository documents hands-on cybersecurity labs completed to develop practical skills in security monitoring, log analysis, endpoint investigation, network analysis, vulnerability management, and defensive security.
 
 ## Certifications
 
@@ -10,19 +10,34 @@ This repository documents hands-on cybersecurity labs completed to develop pract
 
 ## Completed Labs
 
-| Lab                                                               | Skills Demonstrated                                                              | Status    |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------- |
-| [Windows Failed-Login Detection](windows-failed-login-detection/) | Windows Event Viewer, Event ID 4625, authentication analysis, incident reporting | Completed |
+| Lab                                                               | Skills Demonstrated                                                                        | Status    |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------- |
+| [Windows Failed-Login Detection](windows-failed-login-detection/) | Windows Event Viewer, Event ID 4625, authentication analysis, incident reporting           | Completed |
+| [Sysmon Endpoint Monitoring](sysmon-endpoint-monitoring/)         | Sysmon, Event ID 1, process-tree analysis, account discovery, SHA-256 hashes, event triage | Completed |
+
+## Current Skills Coverage
+
+- Windows security-log analysis
+- Authentication-event investigation
+- Endpoint process monitoring
+- Parent-child process analysis
+- Command-line investigation
+- Security-event triage
+- Incident documentation
+- Git and GitHub documentation
 
 ## Planned Labs
 
-- Sysmon endpoint monitoring
-- Splunk SIEM log analysis
+- Splunk SIEM log analysis and alerting
 - Nmap network discovery
 - Wireshark traffic analysis
 - Vulnerability scanning and remediation
 - Phishing-email investigation
 - Incident-response investigation
+
+## Repository Purpose
+
+These labs demonstrate the practical application of concepts from CompTIA Security+, Network+, and ongoing cybersecurity training. Each completed lab includes objectives, tools, evidence, analysis, security recommendations, and an investigation report.
 
 ## Ethical Use
 
