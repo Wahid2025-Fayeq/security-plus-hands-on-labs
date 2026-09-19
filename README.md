@@ -10,10 +10,11 @@ This repository documents hands-on cybersecurity labs completed to develop pract
 
 ## Completed Labs
 
-| Lab                                                               | Skills Demonstrated                                                                        | Status    |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------- |
-| [Windows Failed-Login Detection](windows-failed-login-detection/) | Windows Event Viewer, Event ID 4625, authentication analysis, incident reporting           | Completed |
-| [Sysmon Endpoint Monitoring](sysmon-endpoint-monitoring/)         | Sysmon, Event ID 1, process-tree analysis, account discovery, SHA-256 hashes, event triage | Completed |
+| Lab                                                                     | Skills Demonstrated                                                                        | Status    |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------- |
+| [Windows Failed-Login Detection](windows-failed-login-detection/)       | Windows Event Viewer, Event ID 4625, authentication analysis, incident reporting           | Completed |
+| [Sysmon Endpoint Monitoring](sysmon-endpoint-monitoring/)               | Sysmon, Event ID 1, process-tree analysis, account discovery, SHA-256 hashes, event triage | Completed |
+| [Nmap Network Discovery and Service Analysis](./nmap-network-discovery) | Nmap, host discovery, service detection, TCP port analysis, Windows Firewall, SMB security | Completed |
 
 ## Current Skills Coverage
 
@@ -29,7 +30,6 @@ This repository documents hands-on cybersecurity labs completed to develop pract
 ## Planned Labs
 
 - Splunk SIEM log analysis and alerting
-- Nmap network discovery
 - Wireshark traffic analysis
 - Vulnerability scanning and remediation
 - Phishing-email investigation
