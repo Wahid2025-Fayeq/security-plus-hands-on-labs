@@ -17,6 +17,7 @@ This repository documents hands-on cybersecurity labs completed to develop pract
 | [Nmap Network Discovery and Service Analysis](./nmap-network-discovery) | Nmap, host discovery, service detection, TCP port analysis, Windows Firewall, SMB security | Completed |
 | [Wireshark Network Traffic Analysis](./wireshark-traffic-analysis)      | Wireshark, DNS analysis, TCP three-way handshake, TLS 1.3, packet filtering                | Completed |
 | [Splunk SIEM Log Analysis](splunk-siem-log-analysis)                    | Splunk Enterprise, SPL, Event ID 4625, Sysmon Event ID 1, process-chain analysis           | Completed |
+| [Nessus Vulnerability Assessment](nessus-vulnerability-assessment)      | Nessus Essentials, CVSS analysis, service validation, remediation, verification scanning   | Completed |
 
 ## Current Skills Coverage
 
@@ -31,7 +32,6 @@ This repository documents hands-on cybersecurity labs completed to develop pract
 
 ## Planned Labs
 
-- Vulnerability scanning and remediation
 - Phishing-email investigation
 - Incident-response investigation
 
