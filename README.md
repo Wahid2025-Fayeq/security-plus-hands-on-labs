@@ -18,6 +18,7 @@ This repository documents hands-on cybersecurity labs completed to develop pract
 | [Wireshark Network Traffic Analysis](./wireshark-traffic-analysis)      | Wireshark, DNS analysis, TCP three-way handshake, TLS 1.3, packet filtering                | Completed |
 | [Splunk SIEM Log Analysis](splunk-siem-log-analysis)                    | Splunk Enterprise, SPL, Event ID 4625, Sysmon Event ID 1, process-chain analysis           | Completed |
 | [Nessus Vulnerability Assessment](nessus-vulnerability-assessment)      | Nessus Essentials, CVSS analysis, service validation, remediation, verification scanning   | Completed |
+| [Phishing Email Investigation](phishing-email-investigation)            | Email headers, SPF/DKIM/DMARC, IOC extraction, SHA-256 evidence hashing                    | Completed |
 
 ## Current Skills Coverage
 
@@ -32,7 +33,6 @@ This repository documents hands-on cybersecurity labs completed to develop pract
 
 ## Planned Labs
 
-- Phishing-email investigation
 - Incident-response investigation
 
 ## Repository Purpose
